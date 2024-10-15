@@ -1,6 +1,11 @@
 body {
     background-color: white;
 }
+
+.mi_navbar{
+    background-color: black;
+}
+
 .container {
     color: black;
     background-color: whitesmoke;
@@ -9,11 +14,18 @@ body {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     margin-top: 50px;
 }
+
 h2 {
     color: #343a40;
     margin-bottom: 1.5rem;
 }
+
 .form-label {
     font-weight: 500;
+}
+
+.footer{
+    background-color: black;
+    color: white;
 }
 
